@@ -1,0 +1,6 @@
+{
+    "apps": [{
+        "name": "site1",
+        "script": "./loader.js loader"
+    }]
+}

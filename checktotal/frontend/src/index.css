@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:  lightgreen
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#home {
+  font-size: 21px;
+}
+#nav {
+  width: 1907px;
+  margin-left:  -400px;
+ height: 80px;
+ font-size: 19px;
+ border-bottom: 3px solid  black;
+
+}
+#marca {
+  color: rgb(79, 206, 79);
+  font-size: 28px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#tarefas {
+  color: yellow;
+  font-size: 21px;
+}
+#sobre {
+  color: rgb(207, 52, 155);
+  font-size: 21px;
+}
+#tarefassub {
+  color: black;
+  margin-left: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#cadastrosub {
+  margin-left: 30px;
+}
+
+#adicionar2 {
+ margin-left: 900px;
+ margin-top: -38px;
+}
+#btAdicionar:hover {
+  background-color: green;
+  color: white;
+  transition: all 0.8s linear
+}
+#card {
+  margin-top: 40px;
+  border: 3px solid darkmagenta;
+  width: 1515px;
+  margin-left: -205px;
+}
+#tituloth {
+  padding: 20px;
+  font-weight: bold;
+  color: green;
+  margin-top: -20px;
+  font-size: 29px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#descricaoth {
+  color: purple;
+  font-size: 24px;
+  padding:  20px;
+}
+td {
+  font-size: 18px;
+}
+#titulo {
+  text-transform: uppercase;
+
+}
+label {
+  font-size: 26px;
+  color:  darkblue;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+hr {
+  height:  2px;
+}
+
+#bt {
+  margin-left: 1130px;
+  margin-top: -37px;
+}
+#ptitulo {
+  font-size: 22px;
+margin-top: -10px;
+  text-transform: uppercase;
+  margin-left: 40px;
+}
+#pdescription {
+  font-size: 20px;
+  margin-top: -10px;
+  margin-left:  40px;
+}
+#btantigas {
+  margin-left: 40px;
+  margin-top: 40px;
+  height:  50px;
+  color:  white;
+  background-color: purple;
+  border: 4px solid black;
+  border-radius: 8px;
+  font-size: 19px;
+  transition-duration: 0.7s;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#btnovas {
+  margin-left: 80px;
+  margin-top: 40px;
+  height: 50px;
+  color: black;
+  border:  3px solid  black;
+background-color:  rgb(251, 255, 12);
+  border-radius: 8px;
+  font-size: 19px;
+  transition-duration: 0.7s;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#btantigas:hover {
+background-color: black;
+color:  rgb(235, 14, 87);
+transition-duration: 0.7s;
+}
+#btnovas:hover {
+  background-color: black;
+  color: orange;
+  transition-duration: 0.7s;
+}
+
+#bt2 {
+margin-left: 1000px;
+
+}
+#bt3 {
+  margin-left: 1000px;
+}
+.classeConcluido {
+  text-decoration: line-through;
+  color:  #777;
+}
+
+#btnsalvar {
+  margin-top: -180px;
+  margin-left: 500px;
+  height: 68px;
+  font-size: 22px;
+  border: 4px solid black;
+  border-radius: 7px;
+  transition-duration: 0.7s;
+}
+#btnsalvar:hover {
+  background-color: black;
+  border: 4px solid yellow;
+  color: rgb(6, 218, 6);
+  transition-duration: 0.7s;
+}
+#btnclear {
+  font-size: 23px;
+  font-weight: bold;
+  background-color: rgb(255, 8, 0);
+  border: 4px solid black;
+  border-radius: 4px;
+  margin-top: -290px;
+  margin-left: 1090px;
+  transition-duration: 0.7s;
+}
+#btnclear:hover {
+background-color: black;
+color: red;
+transition-duration:  0.7s;
+}
+
+
+
+
+
+
+
